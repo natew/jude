@@ -1,4 +1,4 @@
-Welcome to Gaston
+Welcome to Jude
 =============
 We are just getting started, stayed tune for more...
 
@@ -8,5 +8,5 @@ We welcome contributors. Feel free to join the [Google group](http://groups.goog
 
 License
 =============
-Gaston is released under the MIT license:
+Jude is released under the MIT license:
 [www.opensource.org/licenses/MIT](http://www.opensource.org/licenses/MIT/ "MIT License")
